@@ -53,6 +53,9 @@ h1{
     color: #ff6f61;
 }
 
-video{
+video,
+.hero-image {
     width: 50%;
+    display: block;
+    margin: 0 auto;
 }
